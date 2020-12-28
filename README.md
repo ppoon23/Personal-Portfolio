@@ -1,4 +1,6 @@
 # Personal-Portfolio Template
-Template of a personal website
+A responsive personal portfolio
 
-This was originally used as a personal portfolio. Now it serves as a template for people to use
+This was built using Materialize CSS. Feel free to use this as a template to customize it as your own. You may change the mapbox api latitude and longitude to display your desired location. 
+
+See demo: https://ppoon23.github.io/Personal-Portfolio-Template/index.html
